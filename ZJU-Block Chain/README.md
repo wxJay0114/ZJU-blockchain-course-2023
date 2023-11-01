@@ -52,25 +52,38 @@
 ## 项目运行截图
 
 1. 连接切换账户：
+````markdown
 ![image](./readme img/连接切换账户.png)
-
+```
+````markdown
 2. 上传汽车功能：
 ![image](./readme img/上传汽车.png)
+```
 
+````markdown
 3. 查询列表功能：
 ![image](./readme img/查询列表.png)
+```
 
+````markdown
 4. 查询汽车信息（可借用）
 ![image](./readme img/查询汽车信息-可借用状态.png)
+```
 
+````markdown
 5. 查询汽车信息（被借用）
 ![image](./readme img/查询汽车信息-被借用状态.png)
+```
 
+````markdown
 6. 借用功能（借用成功）
 ![image](./readme img/借用功能-成功.png)
+```
 
+````markdown
 7. 借用功能（借用成功）
 ![image](./readme img/借用功能-成功.png)
+```
 
 
 ## 参考内容
