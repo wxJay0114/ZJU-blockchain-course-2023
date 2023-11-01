@@ -52,18 +52,15 @@
 ## 项目运行截图
 
 1. 连接切换账户：
-````markdown
-![image](./readme img/连接切换账户.png)
-```
-````markdown
+![image]([./readme img/连接切换账户.png](https://github.com/wxJay0114/ZJU-blockchain-course-2023/blob/main/ZJU-Block%20Chain/readme%20img/%E4%B8%8A%E4%BC%A0%E6%B1%BD%E8%BD%A6.png?raw=true))
+
 2. 上传汽车功能：
 ![image](./readme img/上传汽车.png)
-```
 
-````markdown
+
 3. 查询列表功能：
 ![image](./readme img/查询列表.png)
-```
+
 
 ````markdown
 4. 查询汽车信息（可借用）
